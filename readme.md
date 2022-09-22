@@ -1,8 +1,8 @@
-# BTS Technical Test
+## BTS Technical Test
 
 Developed using javascript
 
-## Function List
+### Function List
 
 Functions included in this application:
 
@@ -48,7 +48,7 @@ Response Body
 }
 ```
 
-### 3. Checklist
+### 2. Checklist
 
 Endpoint
 ```
