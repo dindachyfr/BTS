@@ -117,6 +117,6 @@ Response Body
 {
     "status": "200",
     "result" [{result}],
-    "message": "a checklist has been successfully made"
+    "message": "a checklist has been successfully removed"
 }
 ```
