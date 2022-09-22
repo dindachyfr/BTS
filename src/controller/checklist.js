@@ -63,7 +63,7 @@ const deleteChecklist = async (req, res, next) => {
             res.json({
                 status: 200,
                 result,
-                message: "a checklist has been successfully made"
+                message: "a checklist has been successfully removed"
             })
         } else{
             const errorRes = new Error("You are not authorized to do this action")
