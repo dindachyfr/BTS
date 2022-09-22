@@ -4,7 +4,7 @@ Developed using javascript
 
 ## Function List
 
-Functions that contained in this application.
+Functions included in this application:
 
 ### 1. JWT Auth
 
